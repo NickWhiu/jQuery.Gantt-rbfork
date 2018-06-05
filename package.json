@@ -1,0 +1,19 @@
+{
+  "name": "jquery-gantt-rbfork",
+  "version": "1.0.0",
+  "description": "",
+  "main": "jquery.fn.gantt.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NickWhiu/jQuery.Gantt-rbfork.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NickWhiu/jQuery.Gantt-rbfork/issues"
+  },
+  "homepage": "https://github.com/NickWhiu/jQuery.Gantt-rbfork#readme"
+}
